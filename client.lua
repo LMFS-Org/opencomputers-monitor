@@ -17,7 +17,7 @@ local magenta="\027[35m"
 local cyan="\027[36m"
 
 local displayitems={"minecraft:diamond","industrialforegoing:plastic","minecraft:gold_ingot","bigreactors:ingotyellorium"}
-local displayfluids={"xpjuice","latex","oil","lubricant","liquiddeuterium","liquidtritium"}
+local displayfluids={"xpjuice","latex","oil","lubricant","liquidtritium"}
 --[[
 local displayfluids={}
 for i,j in ipairs(mi.getFluidsInNetwork()) do
